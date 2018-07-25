@@ -15,8 +15,8 @@ In this Section we get you up and running in Blender 2.8 and make sure you have 
 **In this video (objectives)…**
 
 1. Michael welcomes you to the course
-1. Explains the structure of the course
-1. First section is for complete beginners
+2. Explains the structure of the course
+3. First section is for complete beginners
 
 **After watching (learning outcomes)…**
 
@@ -31,7 +31,6 @@ You will feel welcome and understand that Section 1 is about getting started and
 3. Explain Daily Builds
 4. CAUTION with existing Blender files
 
-
 **After watching (learning outcomes)…**
 
 You will have Blender 2.8 Installed and ready to take the rest of the course.
@@ -41,11 +40,23 @@ You will have Blender 2.8 Installed and ready to take the rest of the course.
 **In this video (objectives)…**
 
 1. Guide of the main interface
-1. Understand the various main windows
-1. Get comfortable with moving around in the 3D View
-1. Where to customise Blender's settings
-
+2. Understand the various main windows
+3. Get comfortable with moving around in the 3D View
+4. Where to customise Blender's settings
 
 **After watching (learning outcomes)…**
 
 You will be comfortable with navigating the starting Blender interface.  You will know where to find user preferences and navigate you way around the default scene.
+
+### 4 Preserving Your User Settings
+
+**In this video (objectives)…**
+
+1. Save user preferences
+2. Save your startup file
+3. Know where these settings are stored on
+
+**After watching (learning outcomes)…**
+
+You will be able to backup your own preferences and transfer them to another computer if necessary.
+
