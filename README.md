@@ -54,9 +54,22 @@ You will be comfortable with navigating the starting Blender interface.  You wil
 
 1. Save user preferences
 2. Save your startup file
-3. Know where these settings are stored on
+3. Know where these settings are stored on your Computer
 
 **After watching (learning outcomes)…**
 
 You will be able to backup your own preferences and transfer them to another computer if necessary.
+
+### 5 Adding Objects
+**In this video (objectives)…**
+
+1. Deleting objects
+2. Manipulate the 3D Cursor
+3. Add objects
+4. Transform objects
+5. Tools and Sidebar
+
+**After watching (learning outcomes)…**
+
+You will understand how to add, place and manipulate basic primitives to form more complex structures.
 
