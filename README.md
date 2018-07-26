@@ -87,3 +87,15 @@ You will understand how to add, place and manipulate basic primitives to form mo
 
 You will be able to manipulate objects in your scene, moving them, rotating them and changing their size
 
+### 7 Duplicating Objects
+
+**In this video (objectives)…**
+
+1. Duplicating objects
+2. Linked duplication
+3. Manually linking objects
+
+**After watching (learning outcomes)…**
+
+Using objects that exist already to speed up work flow and produce better results
+
