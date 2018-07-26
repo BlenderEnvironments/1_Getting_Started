@@ -73,3 +73,17 @@ You will be able to backup your own preferences and transfer them to another com
 
 You will understand how to add, place and manipulate basic primitives to form more complex structures.
 
+### 6 Transforming Objects
+
+**In this video (objectives)…**
+
+1. Learn how to move, rotate and resize (scale)
+2. Learn how to reset those transforms
+3. Understand why you will need to apply those transforms
+4. Slowing down transforms
+5. Pivot points
+
+**After watching (learning outcomes)…**
+
+You will be able to manipulate objects in your scene, moving them, rotating them and changing their size
+
