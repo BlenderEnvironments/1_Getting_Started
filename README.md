@@ -107,8 +107,19 @@ Using objects that exist already to speed up work flow and produce better result
 1. How to toggle snapping on and off
 2. Different ways of Snapping
 
-
 **After watching (learning outcomes)…**
 
 Be able to align objects in a scene with part of other objects.
+
+### 9 Render Engine Options
+
+**In this video (objectives)…**
+
+1. Understand that there are 3 main rendering engines in Blender
+2. Realise that they each have their advantages and disadvantages
+3. Rendering our scene
+
+**After watching (learning outcomes)…**
+
+Produce their first render using each rendering engine.
 
