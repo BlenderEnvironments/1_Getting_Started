@@ -94,8 +94,21 @@ You will be able to manipulate objects in your scene, moving them, rotating them
 1. Duplicating objects
 2. Linked duplication
 3. Manually linking objects
+4. Naming!
 
 **After watching (learning outcomes)…**
 
 Using objects that exist already to speed up work flow and produce better results
+
+### 8 Snapping
+
+**In this video (objectives)…**
+
+1. How to toggle snapping on and off
+2. Different ways of Snapping
+
+
+**After watching (learning outcomes)…**
+
+Be able to align objects in a scene with part of other objects.
 
