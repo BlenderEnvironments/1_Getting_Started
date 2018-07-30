@@ -123,3 +123,15 @@ Be able to align objects in a scene with part of other objects.
 
 Produce their first render using each rendering engine.
 
+### 10 Rendering And Sharing Your Work
+
+**In this video (objectives)…**
+
+1. Have a closer look at the Eevee engine
+2. Render an image
+3. Saving Your image
+
+**After watching (learning outcomes)…**
+
+You will be able to render your work to an image file ready to share with the world!
+
