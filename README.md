@@ -135,3 +135,8 @@ Produce their first render using each rendering engine.
 
 You will be able to render your work to an image file ready to share with the world!
 
+### 11 Getting Started Mid Section Challenge
+
+It is time for your Mid-Section Challenge!
+Here you will get to put all the knowledge you have discovered so far to good use by creating your own scene or model using primitives
+
