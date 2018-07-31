@@ -153,3 +153,19 @@ Here you will get to put all the knowledge you have discovered so far to good us
 
 Be able to control whether or not you use blender's versioning backup or not
 
+### 13 Basic Lamps and Lighting 
+ 
+**In this video (objectives)…** 
+ 
+1. Look at the various basic lighting options 
+2. Change the colour of a lamp 
+3. Setup a 3 point lighting setup 
+ 
+ 
+**After watching (learning outcomes)…** 
+ 
+Be able to add lamps to you seen to light your models more effectively. 
+Control the world lighting 
+ 
+ 
+ 
