@@ -140,3 +140,16 @@ You will be able to render your work to an image file ready to share with the wo
 It is time for your Mid-Section Challenge!
 Here you will get to put all the knowledge you have discovered so far to good use by creating your own scene or model using primitives
 
+### 12 What Are ".blend1" Files?
+
+**In this video (objectives)…**
+
+1. Look at what .blend files are
+2. How to turn them off or extend Blender's versioning
+3. Explore Blender's File Browser
+
+
+**After watching (learning outcomes)…**
+
+Be able to control whether or not you use blender's versioning backup or not
+
