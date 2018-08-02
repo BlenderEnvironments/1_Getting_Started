@@ -166,6 +166,11 @@ Be able to control whether or not you use blender's versioning backup or not
  
 Be able to add lamps to you seen to light your models more effectively. 
 Control the world lighting 
+
+### 14 Light Your Mid Section Challenge 
+
+It's time to experiment with Lighting.
+Take a copy of your Mid-section and add lighting to it.
+Be Creative, experiment, and have fun!
  
- 
- 
+
