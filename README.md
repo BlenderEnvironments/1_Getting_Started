@@ -22,3 +22,18 @@ In this Section we get you up and running in Blender 2.8 and make sure you have 
 + Where to get Blender 2.8 from
 + Explain Daily Builds
 + CAUTION with existing Blender files
+
+### 3 Adding Objects
+
+**In this video (objectives)…**
+
+1. All objects in Blender are added in the same way
+2. Add objects to the scene
+3. Look at the operator panel
+4. Note: You will need to switch into rendered mode to see lamps working
+
+
+**After watching (learning outcomes)…**
+
+You will understand how to add, place and manipulate basic primitives, and other objects to form more complex structures.
+
