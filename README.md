@@ -50,3 +50,17 @@ You will understand how to add, place and manipulate basic primitives, and other
 **After watching (learning outcomes)…**
 
 You will be able to manipulate objects in your scene, moving them, rotating them and changing their size
+
+### 5 Basic Model Oganisation
+
+**In this video (objectives)…**
+
+1. Naming our objects
+2. Useing collections
+3. Organisation is down to you
+4. Join individual mesh objects into one
+
+
+**After watching (learning outcomes)…**
+
+Understand that naming and organisation might not seem important with smaller files but it is critical in larger ones
