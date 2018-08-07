@@ -37,3 +37,16 @@ In this Section we get you up and running in Blender 2.8 and make sure you have 
 
 You will understand how to add, place and manipulate basic primitives, and other objects to form more complex structures.
 
+### 4 Transforming Objects
+
+**In this video (objectives)…**
+
+1. Learn how to move, rotate and resize (scale)
+2. Learn how to reset those transforms
+3. Understand why you will need to apply those transforms
+4. Slowing down transforms
+5. Pivot points
+
+**After watching (learning outcomes)…**
+
+You will be able to manipulate objects in your scene, moving them, rotating them and changing their size
