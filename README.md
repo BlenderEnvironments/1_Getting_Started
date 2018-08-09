@@ -79,3 +79,16 @@ Understand that naming and organisation might not seem important with smaller fi
 **After watching (learning outcomes)…**
 
 Use the Boolean modifier to quickly create more interesting meshes
+
+### 7 What Are ".blend1" Files?
+
+**In this video (objectives)…**
+
+1. Look at what .blend files are
+2. How to turn them off or extend Blender's version control
+3. Explore Blender's File Browser
+
+
+**After watching (learning outcomes)…**
+
+Be able to control whether or not you use Blender's version control or not
