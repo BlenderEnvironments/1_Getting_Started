@@ -56,7 +56,7 @@ You will be able to manipulate objects in your scene, moving them, rotating them
 **In this video (objectives)…**
 
 1. Naming our objects
-2. Useing collections
+2. Using collections
 3. Organisation is down to you
 4. Join individual mesh objects into one
 
@@ -64,3 +64,18 @@ You will be able to manipulate objects in your scene, moving them, rotating them
 **After watching (learning outcomes)…**
 
 Understand that naming and organisation might not seem important with smaller files but it is critical in larger ones
+
+
+### 6 The Boolean Modifier
+
+**In this video (objectives)…**
+
+1. Use our first modifier
+2. It is a dynamic tool
+3. Understand its limitations
+4. Create some awesome shapes
+
+
+**After watching (learning outcomes)…**
+
+Use the Boolean modifier to quickly create more interesting meshes
