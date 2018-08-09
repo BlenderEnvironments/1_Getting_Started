@@ -64,3 +64,17 @@ You will be able to manipulate objects in your scene, moving them, rotating them
 **After watching (learning outcomes)…**
 
 Understand that naming and organisation might not seem important with smaller files but it is critical in larger ones
+
+
+### 6 The Boolean Modifier
+
+**In this video (objectives)…**
+
+1. What we did
+2.
+3.
+
+
+**After watching (learning outcomes)…**
+
+Use the Boolean modifier 
