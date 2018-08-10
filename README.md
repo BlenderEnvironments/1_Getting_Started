@@ -119,3 +119,13 @@ You will be able to import aspects of other Blender files into a project you are
 
 Be able to use the array modifier to place repeating objects
 
+### 10 Duplicating Objects
+
+**In this video (objectives)…**
+
+1. Duplicating objects
+2. Linked duplication
+
+**After watching (learning outcomes)…**
+
+Using objects that exist already to speed up work flow and produce better results
