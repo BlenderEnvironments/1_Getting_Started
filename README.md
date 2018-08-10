@@ -106,7 +106,7 @@ Be able to control whether or not you use Blender's version control or not
 
 You will be able to import aspects of other Blender files into a project you are working on.
 
-### 9 The Basic Array Modifier
+### 9 The Array Modifier Basics
 
 **In this video (objectives)…**
 
