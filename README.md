@@ -156,3 +156,15 @@ You will be able to set up the camera ready to share your mockups
 
 Be able to colour in the objects in the scene
 
+### 13 Repeating The Last Operation
+
+**In this video (objectives)…**
+
+1. Learn a new work flow technique 
+2. Only the previoUs operation, no more
+3. How to repeat a series of operations in a row.
+
+
+**After watching (learning outcomes)…**
+
+You will be able to work more proficiently when working on projects that require repeatition. 
