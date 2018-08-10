@@ -129,3 +129,18 @@ Be able to use the array modifier to place repeating objects
 **After watching (learning outcomes)…**
 
 Using objects that exist already to speed up work flow and produce better results
+
+### 11 Setting Up The Camera
+
+**In this video (objectives)…**
+
+1. How to view the active camera
+2. How to move the camera around
+3. Framing the Scene
+
+
+**After watching (learning outcomes)…**
+
+You will be able to set up the camera ready to share your mockups
+
+
