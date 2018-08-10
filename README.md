@@ -143,4 +143,16 @@ Using objects that exist already to speed up work flow and produce better result
 
 You will be able to set up the camera ready to share your mockups
 
+### 12 Material Quick Tip: Base Colour
+
+**In this video (objectives)…**
+
+1. Applied your first material
+2. Understand many objects can share the same material
+3. Base colour only scratches the surface of a materials properties
+
+
+**After watching (learning outcomes)…**
+
+Be able to colour in the objects in the scene
 
