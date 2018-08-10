@@ -92,3 +92,30 @@ Use the Boolean modifier to quickly create more interesting meshes
 **After watching (learning outcomes)…**
 
 Be able to control whether or not you use Blender's version control or not
+
+### 8 Appending Another Blender Project
+
+**In this video (objectives)…**
+
+1. Append another Blender files data into a new project
+2. Understand it is a copy, it will not update
+3. Start putting together our mock scene
+
+
+**After watching (learning outcomes)…**
+
+You will be able to import aspects of other Blender files into a project you are working on.
+
+### 9 The Basic Array Modifier
+
+**In this video (objectives)…**
+
+1. Add a 2nd Modifier to the stack
+2. Understand the different between relative and absolute offsets
+3. See that order of the modifier stack is important
+
+
+**After watching (learning outcomes)…**
+
+Be able to use the array modifier to place repeating objects
+
