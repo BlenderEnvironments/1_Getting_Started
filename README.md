@@ -160,11 +160,24 @@ Be able to colour in the objects in the scene
 
 **In this video (objectives)…**
 
-1. Learn a new work flow technique 
+1. Learn a new workflow technique 
 2. Only the previoUs operation, no more
-3. How to repeat a series of operations in a row.
+3. How to repeat a series of operations in a row
 
 
 **After watching (learning outcomes)…**
 
-You will be able to work more proficiently when working on projects that require repeatition. 
+You will be able to work more proficiently when working on projects that require repetition. 
+
+
+### 14 Snapping
+
+**In this video (objectives)…**
+
+1. How to toggle snapping on and off
+2. Different ways of Snapping
+
+
+**After watching (learning outcomes)…**
+
+Be able to align objects in a scene with part of other objects.
