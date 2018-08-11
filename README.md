@@ -181,3 +181,15 @@ You will be able to work more proficiently when working on projects that require
 **After watching (learning outcomes)…**
 
 Be able to align objects in a scene with part of other objects.
+
+### 15 Randomize Transform
+
+**In this video (objectives)…**
+
+1. How to quickly add variation to a compound object like a wall
+2. Another workflow speed up
+
+
+**After watching (learning outcomes)…**
+
+Be able to use randomize transform to create a more interesting surface
