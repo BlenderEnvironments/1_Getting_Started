@@ -193,3 +193,17 @@ Be able to align objects in a scene with part of other objects.
 **After watching (learning outcomes)…**
 
 Be able to use randomize transform to create a more interesting surface
+
+### 16 Selection Methods 
+
+**In this video (objectives)…**
+
+1. Explore the various ways of selecting in Blender
+2. Right Click is your main one
+3. Border and Circle Select
+4. Shared object data
+
+
+**After watching (learning outcomes)…**
+
+You will be able to select objects in Blender with 
