@@ -219,3 +219,8 @@ You will be able to select objects in Blender with
 **After watching (learning outcomes)…**
 
 You will be able to render your work to an image file ready to share with the world!
+
+### 18 Getting Started Mid Section Challenge
+
+It is time for your Mid-Section Challenge!
+Here you will get to put all the knowledge you have discovered so far to good use by creating your own scene or model using primitives
