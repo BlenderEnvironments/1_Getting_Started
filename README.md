@@ -207,3 +207,15 @@ Be able to use randomize transform to create a more interesting surface
 **After watching (learning outcomes)…**
 
 You will be able to select objects in Blender with 
+
+### 17 Rendering And Sharing Your Work
+
+**In this video (objectives)…**
+
+1. Have a closer look at the Eevee engine
+2. Render an image
+3. Saving Your image
+
+**After watching (learning outcomes)…**
+
+You will be able to render your work to an image file ready to share with the world!
