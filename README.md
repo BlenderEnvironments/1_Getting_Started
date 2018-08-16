@@ -224,3 +224,16 @@ You will be able to render your work to an image file ready to share with the wo
 
 It is time for your Mid-Section Challenge!
 Here you will get to put all the knowledge you have discovered so far to good use by creating your own scene or model using primitives
+
+### 19 Reflective Materials
+
+**In this video (objectives)…**
+
+1. Controlling the basic material properties
+2. Make a surface reflective
+3. Screen Space Reflections (Eevee)
+
+
+**After watching (learning outcomes)…**
+
+Understand that Roughness controls how reflective a surface is. With Eevee you need to turn on those reflections.
