@@ -237,3 +237,18 @@ Here you will get to put all the knowledge you have discovered so far to good us
 **After watching (learning outcomes)…**
 
 Understand that Roughness controls how reflective a surface is. With Eevee you need to turn on those reflections.
+
+## 20 Basic Lamps and Lighting 
+ 
+**In this video (objectives)…** 
+ 
+1. Look at the lamp types
+2. Understand how they differ
+3. Change the colour of a lamp 
+ 
+ 
+**After watching (learning outcomes)…** 
+ 
+Be able to add lamps to your scene to light your models more effectively. 
+
+
