@@ -274,5 +274,15 @@ Control the world lighting understanding it contributes a lot to your scene, and
 
 Understand that lighting you scene or model is critical to showing off your work.
 
+### 23 Viewport and Camera Clipping
 
+**In this video (objectives)…**
+
+1. Adjusting the Viewport clipping distance
+2. Adjusting the camera clipping distance
+
+
+**After watching (learning outcomes)…**
+
+Understand that there are 2 different clipping settings, one that affect your realtime view and once the final render.
 
