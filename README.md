@@ -286,3 +286,15 @@ Understand that lighting you scene or model is critical to showing off your work
 
 Understand that there are 2 different clipping settings, one that affect your realtime view and once the final render.
 
+### 24 Volumetric Basics
+
+**In this video (objectives)…**
+
+1. Create A Domain
+2. Open the Shader Editor
+3. tweak the settings to get the desired result.
+
+
+**After watching (learning outcomes)…**
+
+Add a simple fog to our scene to create atmosphere
