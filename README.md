@@ -262,7 +262,17 @@ Be able to add lamps to your scene to light your models more effectively.
  
 Control the world lighting understanding it contributes a lot to your scene, and is sometimes best left off
 
+### 22 3 Point Lighting Setup 
 
+**In this video (objectives)…**
+
+1. Understand the components of a 3 point lighting setup
+2. Understand the role of each part of the lighting
+
+
+**After watching (learning outcomes)…**
+
+Understand that lighting you scene or model is critical to showing off your work.
 
 
 
