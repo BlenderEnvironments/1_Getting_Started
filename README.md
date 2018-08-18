@@ -298,3 +298,7 @@ Understand that there are 2 different clipping settings, one that affect your re
 **After watching (learning outcomes)…**
 
 Add a simple fog to our scene to create atmosphere
+
+### 25 Getting Started End Of Section Challenge
+
+Time to put together all of the knowledge so far into a final piece of work.
