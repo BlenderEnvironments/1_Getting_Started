@@ -302,3 +302,7 @@ Add a simple fog to our scene to create atmosphere
 ### 25 Getting Started End Of Section Challenge
 
 Time to put together all of the knowledge so far into a final piece of work.
+
+### 99 Getting Started Wrap Up
+
+Well Done completing Section 1!
