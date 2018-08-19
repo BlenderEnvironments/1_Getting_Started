@@ -251,7 +251,7 @@ Understand that Roughness controls how reflective a surface is. With Eevee you n
  
 Be able to add lamps to your scene to light your models more effectively. 
 
-## 21 Quick Tip: Basic World Lighting
+### 21 Quick Tip: Basic World Lighting
  
 **In this video (objectives)…** 
  
