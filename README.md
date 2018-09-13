@@ -23,6 +23,19 @@ In this Section we get you up and running in Blender 2.8 and make sure you have 
 + Explain Daily Builds
 + CAUTION with existing Blender files
 
+### 2a Rendering in 2.8
+
+**In this video (objectives)…**
+
+1. Explore the rendering options
+2. Pick a render options that suits you
+3. Learn the Rendering shortcut key
+
+**After watching (learning outcomes)…**
+
+You will be able to Render your objects to an image
+
+
 ### 3 Adding Objects
 
 **In this video (objectives)…**
