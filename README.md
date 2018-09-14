@@ -299,6 +299,10 @@ Understand that lighting you scene or model is critical to showing off your work
 
 Understand that there are 2 different clipping settings, one that affect your realtime view and once the final render.
 
+### 23a Default Workspaces
+
+Michael shows you a recent change that affects the layout you see in the course vs yours
+
 ### 24 Volumetric Basics
 
 **In this video (objectives)…**
