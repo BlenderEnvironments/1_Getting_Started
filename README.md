@@ -143,6 +143,9 @@ Be able to use the array modifier to place repeating objects
 
 Using objects that exist already to speed up work flow and produce better results
 
+### 10a Your First Instructor Hangout
+Mikey and Rick sit down and discuss what it means to be an environmental artist.
+
 ### 11 Setting Up The Camera
 
 **In this video (objectives)…**
