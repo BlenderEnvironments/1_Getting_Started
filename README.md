@@ -314,6 +314,9 @@ Michael shows you a recent change that affects the layout you see in the course 
 2. Open the Shader Editor
 3. tweak the settings to get the desired result.
 
+### 24b End Of Getting Started Hangout
+
+Mikey and Rick run through the end of section challenges already done and a few tips and tricks along the way.
 
 **After watching (learning outcomes)…**
 
