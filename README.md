@@ -23,6 +23,8 @@ In this Section we get you up and running in Blender 2.8 and make sure you have 
 + Explain Daily Builds
 + CAUTION with existing Blender files
 
+(Updated AFter Blender 2.80 Beta Release)
+
 ### 2a Rendering in 2.8
 
 **In this video (objectives)…**
